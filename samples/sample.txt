@@ -1,0 +1,8 @@
+Contoh data teks untuk aplikasi Edu Cipher Lab.
+
+File ini dapat dipakai untuk mendemonstrasikan:
+1. Enkripsi file teks.
+2. Dekripsi kembali ke bentuk asli.
+3. Preview hasil pada Web UI atau CLI.
+
+Cipher yang digunakan di proyek ini bersifat edukatif dan bukan untuk produksi.
